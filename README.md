@@ -8,8 +8,7 @@ I'm currently studying at Instituto Tecnologico de Veracruz fullfilling the role
 I've participated in competitive programming before with classmates of my same university. I've been a member of the committee that organizes events related to competitive programming in our university quarters.
 
 #### Where can you Find Me?
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokoderayouto69@gmail.com?Subject=Request%20Mission) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kugololz) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FCristopherAsc10&style=for-the-badge&logo=x&logoColor=white)
-
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yokoderayouto69@gmail.com?Subject=Request%20Mission) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kugololz) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-angel-estudillo-silva-3b8717378/) 
 ### Tools and IDEs that I use.
 
 ![vsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![vss](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -20,7 +19,7 @@ I'm currently learning  **Machine Learning and CV with SciKit Learn, Tensorflow 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![cmd](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asccrs&label=Profile%20views&color=0e75b6&style=flat" alt="asccrs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kugololz&label=Profile%20views&color=0e75b6&style=flat" alt="kugololz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asccrs" alt="asccrs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kugololz" alt="kugololz" /></a> </p>
 
